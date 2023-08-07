@@ -1,6 +1,6 @@
-# API de Gerenciamento de Coleção de Filmes para Plataforma de Streaming
+# API de Gerenciamento de Coleção de Filmes para Locadora de Filmes
 
-Este projeto consiste em uma API desenvolvida para ser integrada a uma plataforma de streaming, visando o gerenciamento eficiente da coleção de filmes disponíveis. Através dessa API, é possível realizar operações como adicionar, atualizar, consultar e remover filmes da plataforma.
+Este projeto consiste em uma API desenvolvida para ser integrada para uma locadora de filmes, visando o gerenciamento eficiente da coleção de filmes disponíveis. Através dessa API, é possível realizar operações como adicionar, atualizar, consultar e remover filmes da plataforma.
 
 ## Funcionalidades Principais
 
